@@ -1,0 +1,22 @@
+
+.panSvg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  
+  :global(*) {
+    vector-effect: non-scaling-stroke;
+  }
+}
+
+.panClip {
+  overflow: hidden;
+}
+
+.panChart {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}

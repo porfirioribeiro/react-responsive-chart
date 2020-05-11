@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+}
+
+.chart {
+  height: 200px;
+  padding: 3em 0 2em 2em;
+  margin: 0 0 36px 0;
+}
